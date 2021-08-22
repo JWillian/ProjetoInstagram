@@ -160,7 +160,7 @@
 }
 ?>
 </div>
-</section>   
+</section><br>   
 <!-- Fim da Section  -->
 
 <!-- Footer  -->
