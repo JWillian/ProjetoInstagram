@@ -1,9 +1,9 @@
 <?php
 
-require 'header.php';
-require 'cabecalho.php';
-require 'body.php';
-require 'rodape.php';
-require 'footer.php';
+require 'includes/header.php';
+require 'includes/cabecalho.php';
+require 'includes/body.php';
+require 'includes/rodape.php';
+require 'includes/footer.php';
 
 ?>
